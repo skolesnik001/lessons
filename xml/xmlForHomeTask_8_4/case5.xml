@@ -1,0 +1,32 @@
+<suite name="methods" parallel="false">
+    <test name="test5.1">
+        <parameter name="par1" value="par1NumberOne"/>
+        <classes>
+            <class name="homeTask.HomeTask_8_4">
+                <methods>
+                    <include name="t4"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="test5.2">
+        <parameter name="par2" value="par2NumberTwo"/>
+        <classes>
+            <class name="homeTask.HomeTask_8_4">
+                <methods>
+                    <include name="t4"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="test5.3">
+        <parameter name="par3" value="par3NumberThree"/>
+        <classes>
+            <class name="homeTask.HomeTask_8_4">
+                <methods>
+                    <include name="t4"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

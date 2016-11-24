@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="methods" parallel="false">
+    <test name="test3">
+        <classes>
+            <class name="homeTask.HomeTask_8_4">
+                 <methods>
+                     <include name="t1"/>
+                     <include name="t2"/>
+                     <include name="t3"/>
+                     <include name="t4"/>
+                     <include name="t5"/>
+                 </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
