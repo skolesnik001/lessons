@@ -18,9 +18,6 @@
     </properties>
 
 
-//sdss
-
-
     <build>
         <directory>${buildDirectory}</directory>
         <sourceDirectory>src/main/java</sourceDirectory>

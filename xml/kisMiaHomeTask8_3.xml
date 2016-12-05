@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="KisMiaTest" parallel="false">
     <test name="test1">
-        <parameter name="email" value="siava.kolesnikk@.gmail.com"></parameter>
+        <parameter name="email" value="siava.kolesnikk@gmail.com"></parameter>
         <parameter name="password" value="6423416"></parameter>
         <classes>
             <class name="homeTask.HomeTask5Test">
