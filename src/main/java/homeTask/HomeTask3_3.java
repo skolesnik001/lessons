@@ -5,7 +5,7 @@ package homeTask;
  */
 public class HomeTask3_3 {
     public static void main(String[] args) {
-        int a = 11;
+        int a = 111;
         int b = 1;
         int c = 8;
         int d = 9;
